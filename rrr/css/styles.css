@@ -1,0 +1,82 @@
+.body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#title{
+    background-color: #9fd3c7;
+}
+#testamonials {
+    background-color: bisque;
+}
+#features {
+    background-color: bisque;
+
+}
+
+
+.container-fluid{
+    padding: 3% 15%;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 5rem;
+    line-height: 1.5;
+}
+p{
+    font-family: 'Times New Roman', Times, serif
+    color: #8f8f8f;
+}
+
+.navbar {
+    padding-bottom: 4.5rem;
+}
+.navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bolder;
+}
+.nav-items {
+    padding: 0 18px;
+}
+.nav-link {
+    font-size: 1.2rem;
+    font-family: Montserrat thin;
+
+}
+.title-image {
+    transform: rotate(22);
+}
+
+#features {
+    padding: 7% 15%;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+#testimonials {
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #9fd3c7;
+}
+#testimonials-img {
+    width: 30%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#login-form-wrap {
+    background-color:bisque;
+    width: 35%;
+    margin: 30px auto;
+    text-align: center;
+    padding: 20px 0 0 0;
+    border-radius: 4px;
+    box-shadow: 0px 30px 50px 0px rgba(0, 0, 0, 0.2);
+  }
+  
+  #login-form {
+    padding: 0 60px;
+  }
+
+#locateus {
+    background-color: ;
+} 
